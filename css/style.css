@@ -5,6 +5,10 @@ body {
     background-color: blue;
 }
 
+#headkv{
+color:red;
+    text-align:center;
+}
 header {
     background-color: #333;
     color: red;
